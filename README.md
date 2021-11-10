@@ -1,4 +1,4 @@
-# vuetify-data-table-example
+# Data Registry Project
 
 ## Project setup
 ```
